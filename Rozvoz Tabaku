@@ -1,0 +1,104 @@
+{
+  "name": "Žvýkací tabák",
+  "type": 1,
+  "points": [
+    {
+      "x": 1426.3837890625,
+      "y": 52.8984375,
+      "z": 1005.596862793,
+      "int": 18,
+      "dim": 3451,
+      "minigame": {
+        "game": "keys",
+        "steps": 5,
+        "speed": 700,
+        "fail": "Vysypal jsi kartóny se žvýkacím tabákem, zkus to znovu!",
+        "done": "Úspěšně jsi dal kartóny s žvýkacím tabákem do krabice, můžeš pokračovat!"
+      },
+      "me": "[dává do krabice kartóny s žvýkacím tabákem]",
+      "help": "Nyní se přesuň na dolní benzínku v Los Santos"
+    },
+    {
+      "x": 1928.8115234375,
+      "y": -1777.6083984375,
+      "z": 13.546875,
+      "int": 0,
+      "dim": 0,
+      "me": "[Předává kartóny se žvýkacím tabákem obsluze]",
+      "help": "Nyní se přesuň do Obchodního centra Los Santos"
+    },
+    {
+      "x": 1102.4140625,
+      "y": -1434.4169921875,
+      "z": 15.796875,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "snake",
+        "steps": 1,
+        "fail": "Opustil jsi kartón s žvýkacím  tabákem, zkus to znovu!",
+        "done": "Úspěšně jsi předal kartón s žvýkacím tabákem!"
+      },
+      "me": "[Předal obsluze kartón s žvýkacím tabákem]",
+      "help": "Nyní se přesuň na benzínku v Angel Pine!"
+    },
+    {
+      "x": -1566.5205078125,
+      "y": -2730.267578125,
+      "z": 48.743457794189,
+      "int": 0,
+      "dim": 0,
+      "me": "[Předává kartóny se žvýkacím tabákem obsluze]",
+      "help": "Nyní se přesuň do Obchodního centra v San Fierru!"
+    },
+    {
+      "x": -1955.0224609375,
+      "y": -866.2744140625,
+      "z": 32.2265625,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "snake",
+        "steps": 1,
+        "fail": "Vysypal jsi kartón se žvýkacím tabákem, zkus to znovu!",
+        "done": "Úspěšně jsi předal kartón se žvýkacím tabákem!"
+      },
+      "me": "[Předává obsluze kartón se žvýkacím tabákem]",
+      "help": "Nyní se přesuň na benzínku v Las Venturas!"
+    },
+    {
+      "x": 2116.2724609375,
+      "y": 896.775390625,
+      "z": 11.1796875,
+      "int": 0,
+      "dim": 0,
+      "me": "[Předává kartóny se žvýkacím tabákem obsluze]",
+      "help": "Nyní se přesuň do Obchodní centra v Las Venturas!"
+    },
+    {
+      "x": 2634.6142578125,
+      "y": 1716.654296875,
+      "z": 11.0234375,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "snake",
+        "steps": 1,
+        "fail": "Vysypal jsi krabici s tabákem, zkus to znovu!",
+        "done": "Úspěšně jsi naplnil krabici, můžeš pokračovat!"
+      },
+      "me": "předává kartóny se žvýkacím tabákem obsluze",
+      "help": "Nyní se přesuň na sídlo firmy v Dockách!"
+    },
+    {
+      "x": 2278.72265625,
+      "y": -2362.6748046875,
+      "z": 13.546875,
+      "int": 0,
+      "dim": 0,
+      "me": "[Zapisuješ jízdu do dokumentů]",
+      "help": "Získáváš odměnu za odvedenou práci"
+    }
+  ],
+  "reward": 40000
+}
